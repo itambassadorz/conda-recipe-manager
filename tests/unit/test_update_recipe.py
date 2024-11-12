@@ -1,3 +1,4 @@
+import pytest
 from conda_recipe_manager.unit.recipe_manager import update_recipe
 
 
